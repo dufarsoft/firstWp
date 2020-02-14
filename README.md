@@ -1,4 +1,4 @@
-# Conheçendo o Polymer e suas peculiaridades - by Afonso Pacifer - YouTube
+# Conheçendo o Polymer e suas peculiaridades
 
 ## Instalando o Polymer CLI
 
